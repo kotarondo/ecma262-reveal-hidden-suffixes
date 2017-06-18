@@ -1,1 +1,2 @@
-# ecma262-reveal-hidden-suffixes
+
+This is a Chrome extension which reveals hidden suffixes in the ECMAScript specification.

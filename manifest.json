@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "reveal hidden suffixes in the ECMAScript specification",
+    "version": "0.1",
+    "content_scripts": [{
+        "matches": [
+            "https://www.ecma-international.org/ecma-262/*",
+            "https://tc39.github.io/ecma262/*"
+        ],
+        "css": ["styles.css"]
+    }]
+}
